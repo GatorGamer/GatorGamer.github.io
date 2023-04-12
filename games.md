@@ -8,4 +8,6 @@
 
 ## [Retro Bowl](https://gatorgamer.github.io/games/retrobowl)
 
+## [Run 3](https://gatorgamer.github.io/games/run3)
+
 ## [Slope](https://gatorgamer.github.io/games/slope)
