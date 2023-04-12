@@ -1,3 +1,3 @@
 # Games
 
-## Nothing Here Now!
+## [Among Us](https://gatorgamer.github.io/games/amongus)
