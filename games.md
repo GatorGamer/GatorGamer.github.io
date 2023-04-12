@@ -15,3 +15,5 @@
 ## [Shell Shockers](https://gatorgamer.github.io/games/shellshockers)
 
 ## [Slope](https://gatorgamer.github.io/games/slope)
+
+## [Tap Tap Shots](https://gatorgamer.github.io/games/taptapshots)
