@@ -6,6 +6,8 @@
 
 ## [Doodle Jump](https://gatorgamer.github.io/games/doodlejump)
 
+## [MotoX3M](https://gatorgamer.github.io/games/motox3m)
+
 ## [Retro Bowl](https://gatorgamer.github.io/games/retrobowl)
 
 ## [Run 3](https://gatorgamer.github.io/games/run3)
