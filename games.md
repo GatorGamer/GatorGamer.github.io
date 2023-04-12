@@ -10,4 +10,6 @@
 
 ## [Run 3](https://gatorgamer.github.io/games/run3)
 
+## [Shell Shockers](https://gatorgamer.github.io/games/shellshockers)
+
 ## [Slope](https://gatorgamer.github.io/games/slope)
