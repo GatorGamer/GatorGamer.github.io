@@ -7,3 +7,5 @@
 ## [Doodle Jump](https://gatorgamer.github.io/games/doodlejump)
 
 ## [Retro Bowl](https://gatorgamer.github.io/games/retrobowl)
+
+## [Slope](https://gatorgamer.github.io/games/slope)
