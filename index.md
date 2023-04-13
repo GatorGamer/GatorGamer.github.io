@@ -1,5 +1,7 @@
 KFC IS REALLY GOOD
 
+ <a href='https://thesiswritingservice.net/'>https://thesiswritingservice.net</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=1bc6d715c684309a0c5a7b78f111356a21767591'></script>
+<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1018414/t/0"></script>
 
 ## Created By Alexey Simakov
 Someone who is simply better
