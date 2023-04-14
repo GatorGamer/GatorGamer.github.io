@@ -16,4 +16,6 @@
 
 ## [Slope](https://gatorgamer.github.io/games/slope)
 
+## [Subway Surfers](https://gatorgamer.github.io/games/subwaysurfers)
+
 ## [Tap Tap Shots](https://gatorgamer.github.io/games/taptapshots)
