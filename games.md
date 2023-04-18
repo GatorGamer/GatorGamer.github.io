@@ -2,6 +2,8 @@
 
 ## [Among Us](https://gatorgamer.github.io/games/amongus)
 
+## [Basketball Legends](https://gatorgamer.github.io/games/basketballlegends)
+
 ## [Choppy Orc](https://gatorgamer.github.io/games/choppyorc)
 
 ## [Doodle Jump](https://gatorgamer.github.io/games/doodlejump)
