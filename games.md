@@ -1,23 +1,25 @@
-# [Home](https://gatorgamer.github.io)
+# Games
 
-## [Among Us](https://gatorgamer.github.io/games/amongus)
+## [Home](https://gatorgamer.github.io)
 
-## [Basketball Legends](https://gatorgamer.github.io/games/basketballlegends)
+[Among Us](https://gatorgamer.github.io/games/amongus)
 
-## [Choppy Orc](https://gatorgamer.github.io/games/choppyorc)
+[Basketball Legends](https://gatorgamer.github.io/games/basketballlegends)
 
-## [Doodle Jump](https://gatorgamer.github.io/games/doodlejump)
+[Choppy Orc](https://gatorgamer.github.io/games/choppyorc)
 
-## [MotoX3M](https://gatorgamer.github.io/games/motox3m)
+[Doodle Jump](https://gatorgamer.github.io/games/doodlejump)
 
-## [Retro Bowl](https://gatorgamer.github.io/games/retrobowl)
+[MotoX3M](https://gatorgamer.github.io/games/motox3m)
 
-## [Run 3](https://gatorgamer.github.io/games/run3)
+[Retro Bowl](https://gatorgamer.github.io/games/retrobowl)
 
-## [Shell Shockers](https://gatorgamer.github.io/games/shellshockers)
+[Run 3](https://gatorgamer.github.io/games/run3)
 
-## [Slope](https://gatorgamer.github.io/games/slope)
+[Shell Shockers](https://gatorgamer.github.io/games/shellshockers)
 
-## [Subway Surfers](https://gatorgamer.github.io/games/subwaysurfers)
+[Slope](https://gatorgamer.github.io/games/slope)
 
-## [Tap Tap Shots](https://gatorgamer.github.io/games/taptapshots)
+[Subway Surfers](https://gatorgamer.github.io/games/subwaysurfers)
+
+[Tap Tap Shots](https://gatorgamer.github.io/games/taptapshots)
