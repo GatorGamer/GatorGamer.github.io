@@ -10,6 +10,8 @@
 
 [Doodle Jump](https://gatorgamer.github.io/games/doodlejump)
 
+[Monkey Mart](https://gatorgamer.github.io/games/monkeymart)
+
 [MotoX3M](https://gatorgamer.github.io/games/motox3m)
 
 [Retro Bowl](https://gatorgamer.github.io/games/retrobowl)
