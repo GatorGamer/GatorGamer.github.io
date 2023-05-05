@@ -2,6 +2,8 @@
 
 ## [Home](https://gatorgamer.github.io)
 
+[1v1 LOL](https://gatorgamer.github.io/games/1v1lol)
+
 [Among Us](https://gatorgamer.github.io/games/amongus)
 
 [Basketball Legends](https://gatorgamer.github.io/games/basketballlegends)
