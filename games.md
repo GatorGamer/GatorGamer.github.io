@@ -16,6 +16,8 @@
 
 [MotoX3M](https://gatorgamer.github.io/games/motox3m)
 
+[Paper.io 2](https://gatorgamer.github.io/games/paperio2)
+
 [Retro Bowl](https://gatorgamer.github.io/games/retrobowl)
 
 [Run 3](https://gatorgamer.github.io/games/run3)
