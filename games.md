@@ -10,6 +10,8 @@
 
 [Choppy Orc](https://gatorgamer.github.io/games/choppyorc)
 
+[Crossy Road](https://gatorgamer.github.io/games/crossyroad)
+
 [Doodle Jump](https://gatorgamer.github.io/games/doodlejump)
 
 [Monkey Mart](https://gatorgamer.github.io/games/monkeymart)
