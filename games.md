@@ -14,6 +14,8 @@
 
 [Doodle Jump](https://gatorgamer.github.io/games/doodlejump)
 
+[Google Baseball](https://gatorgamer.github.io/games/googlebaseball)
+
 [Monkey Mart](https://gatorgamer.github.io/games/monkeymart)
 
 [MotoX3M](https://gatorgamer.github.io/games/motox3m)
