@@ -22,6 +22,8 @@
 
 [Paper.io 2](https://gatorgamer.github.io/games/paperio2)
 
+[Raft Wars](https://gatorgamer.github.io/games/raftwars)
+
 [Retro Bowl](https://gatorgamer.github.io/games/retrobowl)
 
 [Run 3](https://gatorgamer.github.io/games/run3)
