@@ -24,6 +24,8 @@
 
 [Raft Wars](https://gatorgamer.github.io/games/raftwars)
 
+[Raft Wars 2](https://gatorgamer.github.io/games/raftwars2)
+
 [Retro Bowl](https://gatorgamer.github.io/games/retrobowl)
 
 [Run 3](https://gatorgamer.github.io/games/run3)
