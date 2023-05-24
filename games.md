@@ -38,4 +38,4 @@
 
 [Tap Tap Shots](https://gatorgamer.github.io/games/taptapshots)
 
-[Tunnel Rush](https://gatorgamer.gihub.io/games/tunnelrush)
+[Tunnel Rush](https://gatorgamer.github.io/games/tunnelrush)
