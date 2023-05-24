@@ -37,3 +37,5 @@
 [Subway Surfers](https://gatorgamer.github.io/games/subwaysurfers)
 
 [Tap Tap Shots](https://gatorgamer.github.io/games/taptapshots)
+
+[Tunnel Rush](https://gatorgamer.gihub.io/games/tunnelrush)
