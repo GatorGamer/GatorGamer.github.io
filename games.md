@@ -14,6 +14,8 @@
 
 [Doodle Jump](https://gatorgamer.github.io/games/doodlejump)
 
+[Getaway Shootout](https://gatorgamer.github.io/games/getawayshootout)
+
 [Google Baseball](https://gatorgamer.github.io/games/googlebaseball)
 
 [Monkey Mart](https://gatorgamer.github.io/games/monkeymart)
