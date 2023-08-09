@@ -6,6 +6,12 @@ Keep in mind im not the one posting the chapters alright
 
 also some of these are just the fastpasses
 
+Requests Tutorial:
+<video width="400" height="600" controls>
+      <source src=”http://techslides.com/demos/sample-videos/small.ogv” type=video/ogg>
+      <source src="https://gatorgamer.github.io/2023-08-09%2014-04-01.mp4" type=video/mp4>
+</video>
+
 ## [Home](https://gatorgamer.github.io)
 
 ![Study-Group-193x278_3_40x58](https://github.com/GatorGamer/GatorGamer.github.io/assets/130500031/6f7676f4-9ae9-4023-8d77-42291cd0c106)
