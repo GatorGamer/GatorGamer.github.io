@@ -7,10 +7,8 @@ Keep in mind im not the one posting the chapters alright
 also some of these are just the fastpasses
 
 Requests Tutorial:
-<video width="400" height="600" controls>
-      <source src=”http://techslides.com/demos/sample-videos/small.ogv” type=video/ogg>
-      <source src="https://gatorgamer.github.io/2023-08-09%2014-04-01.mp4" type=video/mp4>
-</video>
+<iframe src="https://gatorgamer.github.io/request-tutorial.mp4" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="200px" width="350px" allowfullscreen></iframe>
+[Link](https://github.com/GatorGamer/GatorGamer.github.io/issues)
 
 ## [Home](https://gatorgamer.github.io)
 
