@@ -12,4 +12,4 @@ also some of these are just the fastpasses
 [Study Group](https://gatorgamer.github.io/webtoon/studygroup.html)
 
 ![UnOrdinary_Poster_40x58](https://github.com/GatorGamer/GatorGamer.github.io/assets/130500031/5dbf1fb5-40b3-495a-b4eb-799075b8ebc7)
-[UnOrdinary (Redirects to site seperate from gatorgamer)](https://enryumanga.com/manga/unordinary/)
+[UnOrdinary (Redirects to site separate from gatorgamer)](https://enryumanga.com/manga/unordinary/)
