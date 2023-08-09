@@ -8,7 +8,7 @@ also some of these are just the fastpasses
 
 Requests Tutorial:
 <iframe src="https://gatorgamer.github.io/request-tutorial.mp4" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="200px" width="350px" allowfullscreen></iframe>
-[Link](https://github.com/GatorGamer/GatorGamer.github.io/issues)
+[Link for Requests](https://github.com/GatorGamer/GatorGamer.github.io/issues)
 
 ## [Home](https://gatorgamer.github.io)
 
