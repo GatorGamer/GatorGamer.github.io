@@ -13,9 +13,9 @@ Someone who is simply better
 
 ## [Discord Unblocked (Still in making)](https://gatorgamer.github.io/discord.html)
 
-# [Free Anime Streaming ZORO.TO unblocked](https://gatorgamer.github.io/htmlfiles/zoroto.html)
-
 # [Games](https://gatorgamer.github.io/games)
+
+# [Free Anime Streaming Unblocked](https://gatorgamer.github.io/htmlfiles/zoroto.html)
 
 Play all your favorite games right here right now!
 
