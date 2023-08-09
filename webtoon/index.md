@@ -3,6 +3,7 @@ English Webtoon chapters are always behind the original language, however I've c
 in which you can read ahead of what is currently released by looking at translated ones
 
 Keep in mind im not the one posting the chapters alright
+
 also some of these are just the fastpasses
 
 ## [Home](https://gatorgamer.github.io)
