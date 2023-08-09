@@ -13,3 +13,5 @@ also some of these are just the fastpasses
 
 ![UnOrdinary_Poster_40x58](https://github.com/GatorGamer/GatorGamer.github.io/assets/130500031/5dbf1fb5-40b3-495a-b4eb-799075b8ebc7)
 [UnOrdinary (Redirects to site separate from gatorgamer)](https://enryumanga.com/manga/unordinary/)
+
+[Viral Hit / How to Fight (Redirects to site separate from gatorgamer)](https://mangadex.org/title/d2df017b-c003-4de6-9625-4f1fba7aef97/how-to-fight))
