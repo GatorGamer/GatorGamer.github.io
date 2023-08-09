@@ -17,7 +17,7 @@ Someone who is simply better
 
 # [Webtoon Fastpasses](https://gatorgamer.github.io/webtoon)
 
-# [Streaming Services Unblocked (Cartoons and Anime)](https://gatorgamer.github.io/streaming)
+# [Streaming Services Unblocked](https://gatorgamer.github.io/streaming)
 
 Play all your favorite games right here right now!
 
