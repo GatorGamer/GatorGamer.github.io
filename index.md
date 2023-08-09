@@ -15,6 +15,8 @@ Someone who is simply better
 
 # [Games](https://gatorgamer.github.io/games)
 
+# [Webtoon Fastpasses](https://gatorgamer.github.io/webtoon)
+
 # [Free Anime Streaming Unblocked](https://gatorgamer.github.io/htmlfiles/zoroto.html)
 
 Play all your favorite games right here right now!
