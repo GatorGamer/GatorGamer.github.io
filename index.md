@@ -7,7 +7,7 @@
 Someone who is simply better
 ## [VIP Chat](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoidGxBLzE1REp0OTNsbTNpWmhjblJqdDJwbTVZS2s0aTBZSitObmpRbXBzZXM1SDlmYUwzNWlOSlhrcjlPeGp4S292Qm1XZGNUN1RFR1lSQy8iLCJzIjoiYjZOaDNYSEpITDQ2MGZ3TTBidzk1Zz09IiwiaSI6IkhSbHgzZkFPMkxPQXorakYifQ==)
 
-## [Proxy](https://gatorgamer.github.io/unblockedweb)
+## [Proxy](https://gatorgamer.github.io/unblockedweb.html)
 
 ## [Message Encrypter](https://gatorgamer.github.io/encrypt)
 
