@@ -1,2 +1,3 @@
-[https://croxy-proxy-official.github.io/](https://croxy-proxy-official.github.io/)
-This is one of the best proxies that the internet has to offer
+
+
+<embed src="https://i9fqnz.sse.codesandbox.io/" style="position:fixed; width:100%; height:100%">
