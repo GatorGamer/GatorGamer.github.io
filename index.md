@@ -11,7 +11,7 @@ Someone who is simply better
 
 ## [Message Encrypter](https://gatorgamer.github.io/encrypt)
 
-## [Discord Unblocked (Still in making)](https://gatorgamer.github.io/discord.html)
+## [Discord Unblocked (Can't Unmute in Calls)](https://gatorgamer.github.io/discord.html)
 
 # [Games](https://gatorgamer.github.io/games)
 
