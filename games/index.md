@@ -32,6 +32,7 @@
 ![unnamed_1_40x40](https://github.com/GatorGamer/GatorGamer.github.io/assets/130500031/c19ef361-90e9-4303-be3c-e08b5cc1ea7e)
 [Monkey Mart](https://gatorgamer.github.io/games/monkeymart)
 
+![5b0abd4c0faa4f5eb190a9a16d5a1b4c-512x512_40x40](https://github.com/GatorGamer/GatorGamer.github.io/assets/130500031/932b3648-9331-44d8-b30e-f932f3d71eb2)
 [MotoX3M](https://gatorgamer.github.io/games/motox3m)
 
 [Paper.io 2](https://gatorgamer.github.io/games/paperio2)
