@@ -26,6 +26,7 @@
 ![getaway-shootout_40x40](https://github.com/GatorGamer/GatorGamer.github.io/assets/130500031/118b3429-9ce5-471d-b433-d56b1f6988ee)
 [Getaway Shootout](https://gatorgamer.github.io/games/getawayshootout)
 
+![favicon_40x40](https://github.com/GatorGamer/GatorGamer.github.io/assets/130500031/7d426e50-722d-4b7f-85d6-c5792f2dfade)
 [Google Baseball](https://gatorgamer.github.io/games/googlebaseball)
 
 [Monkey Mart](https://gatorgamer.github.io/games/monkeymart)
