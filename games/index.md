@@ -56,6 +56,7 @@
 ![slope_40x40](https://github.com/GatorGamer/GatorGamer.github.io/assets/130500031/2b8ea5b9-b5de-4bb7-96a7-2617c50c5924)
 [Slope](https://gatorgamer.github.io/games/slope)
 
+![VeniceBeach2021Icon_40x40](https://github.com/GatorGamer/GatorGamer.github.io/assets/130500031/b475b780-0737-42d4-9825-91ec4eee075b)
 [Subway Surfers](https://gatorgamer.github.io/games/subwaysurfers)
 
 [Tap Tap Shots](https://gatorgamer.github.io/games/taptapshots)
