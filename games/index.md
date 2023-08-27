@@ -38,6 +38,7 @@
 ![512x512bb_40x40](https://github.com/GatorGamer/GatorGamer.github.io/assets/130500031/d9673ce8-03f7-4533-8c2c-707bbbd7f089)
 [Paper.io 2](https://gatorgamer.github.io/games/paperio2)
 
+![d2a3bbd1bb8aea542835f4f8a353d388_40x40](https://github.com/GatorGamer/GatorGamer.github.io/assets/130500031/4bcc0dcd-2c63-4881-8551-4b7104aecd57)
 [Raft Wars](https://gatorgamer.github.io/games/raftwars)
 
 [Raft Wars 2](https://gatorgamer.github.io/games/raftwars2)
