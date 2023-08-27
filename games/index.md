@@ -4,6 +4,7 @@
 
 [1v1 LOL](https://gatorgamer.github.io/games/1v1lol)
 
+![1024x1024bb_40x40](https://github.com/GatorGamer/GatorGamer.github.io/assets/130500031/d3f298dd-e51e-42fe-8a80-7face2245517)
 [Among Us](https://gatorgamer.github.io/games/amongus)
 
 [Basketball Legends](https://gatorgamer.github.io/games/basketballlegends)
