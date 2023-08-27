@@ -14,6 +14,7 @@
 ![cover_40x40](https://github.com/GatorGamer/GatorGamer.github.io/assets/130500031/9cf59b9f-bcc2-44df-8e89-9dfadb5ddf3b)
 [Choppy Orc](https://gatorgamer.github.io/games/choppyorc)
 
+![pngimg com_-_counter_strike_PNG78_40x40](https://github.com/GatorGamer/GatorGamer.github.io/assets/130500031/7af9bd19-36e3-4d50-93e5-003bb925a2d1)
 [Counter Strike](https://gatorgamer.github.io/games/counterstrike)
 
 [Crossy Road](https://gatorgamer.github.io/games/crossyroad)
