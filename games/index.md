@@ -41,6 +41,7 @@
 ![d2a3bbd1bb8aea542835f4f8a353d388_40x40](https://github.com/GatorGamer/GatorGamer.github.io/assets/130500031/4bcc0dcd-2c63-4881-8551-4b7104aecd57)
 [Raft Wars](https://gatorgamer.github.io/games/raftwars)
 
+![8ce3d09339bcb18c63bf9f1780795944_40x40](https://github.com/GatorGamer/GatorGamer.github.io/assets/130500031/53925fe9-145b-4dc5-94f2-77db480d11ac)
 [Raft Wars 2](https://gatorgamer.github.io/games/raftwars2)
 
 [Retro Bowl](https://gatorgamer.github.io/games/retrobowl)
