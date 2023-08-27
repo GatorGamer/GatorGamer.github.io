@@ -53,6 +53,7 @@
 ![favicon192_40x40](https://github.com/GatorGamer/GatorGamer.github.io/assets/130500031/6745c9e2-db37-4b2b-b58f-810579cc9df8)
 [Shell Shockers](https://gatorgamer.github.io/games/shellshockers)
 
+![slope_40x40](https://github.com/GatorGamer/GatorGamer.github.io/assets/130500031/2b8ea5b9-b5de-4bb7-96a7-2617c50c5924)
 [Slope](https://gatorgamer.github.io/games/slope)
 
 [Subway Surfers](https://gatorgamer.github.io/games/subwaysurfers)
