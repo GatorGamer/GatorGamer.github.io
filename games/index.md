@@ -59,6 +59,8 @@
 ![VeniceBeach2021Icon_40x40](https://github.com/GatorGamer/GatorGamer.github.io/assets/130500031/b475b780-0737-42d4-9825-91ec4eee075b)
 [Subway Surfers](https://gatorgamer.github.io/games/subwaysurfers)
 
+![tap-tap-shots-2-game_40x40](https://github.com/GatorGamer/GatorGamer.github.io/assets/130500031/ab2cdbd3-1348-452e-806d-9ae10f82a88c)
 [Tap Tap Shots](https://gatorgamer.github.io/games/taptapshots)
 
+![vign-tunnel-rush-hk-w8v_u89_40x40](https://github.com/GatorGamer/GatorGamer.github.io/assets/130500031/5c41cbfd-0daa-4e33-b329-3e221bf5fc45)
 [Tunnel Rush](https://gatorgamer.github.io/games/tunnelrush)
