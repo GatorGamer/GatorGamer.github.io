@@ -23,6 +23,7 @@
 ![DJ_Paid_Icon_40x40](https://github.com/GatorGamer/GatorGamer.github.io/assets/130500031/45922d08-e0fa-460e-9067-2bc00078516f)
 [Doodle Jump](https://gatorgamer.github.io/games/doodlejump)
 
+![getaway-shootout_40x40](https://github.com/GatorGamer/GatorGamer.github.io/assets/130500031/118b3429-9ce5-471d-b433-d56b1f6988ee)
 [Getaway Shootout](https://gatorgamer.github.io/games/getawayshootout)
 
 [Google Baseball](https://gatorgamer.github.io/games/googlebaseball)
