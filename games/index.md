@@ -35,6 +35,7 @@
 ![5b0abd4c0faa4f5eb190a9a16d5a1b4c-512x512_40x40](https://github.com/GatorGamer/GatorGamer.github.io/assets/130500031/932b3648-9331-44d8-b30e-f932f3d71eb2)
 [MotoX3M](https://gatorgamer.github.io/games/motox3m)
 
+![512x512bb_40x40](https://github.com/GatorGamer/GatorGamer.github.io/assets/130500031/d9673ce8-03f7-4533-8c2c-707bbbd7f089)
 [Paper.io 2](https://gatorgamer.github.io/games/paperio2)
 
 [Raft Wars](https://gatorgamer.github.io/games/raftwars)
