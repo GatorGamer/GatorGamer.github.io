@@ -13,6 +13,7 @@ Someone who is simply better
 
 ## [Discord Unblocked (Can't Unmute in Calls)](https://gatorgamer.github.io/discord.html)
 
+![70-707301_game-controller-pad-videogame-game-controller-png-white_40x30](https://github.com/GatorGamer/GatorGamer.github.io/assets/130500031/8d724293-bc46-49b0-b54f-6bd64de8b044)
 # [Games](https://gatorgamer.github.io/games)
 
 # [Webtoon Fastpasses](https://gatorgamer.github.io/webtoon)
