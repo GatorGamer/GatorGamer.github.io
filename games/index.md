@@ -50,6 +50,7 @@
 ![run-3-0-button-1529363477468_40x40](https://github.com/GatorGamer/GatorGamer.github.io/assets/130500031/95ed50b4-395c-48f5-9509-9d64b06c1c38)
 [Run 3](https://gatorgamer.github.io/games/run3)
 
+![favicon192_40x40](https://github.com/GatorGamer/GatorGamer.github.io/assets/130500031/6745c9e2-db37-4b2b-b58f-810579cc9df8)
 [Shell Shockers](https://gatorgamer.github.io/games/shellshockers)
 
 [Slope](https://gatorgamer.github.io/games/slope)
