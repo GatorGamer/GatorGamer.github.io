@@ -20,6 +20,7 @@
 ![unnamed_40x40 (1)](https://github.com/GatorGamer/GatorGamer.github.io/assets/130500031/85f77610-a5a3-4a2f-8d8b-66e001ebce68)
 [Crossy Road](https://gatorgamer.github.io/games/crossyroad)
 
+![DJ_Paid_Icon_40x40](https://github.com/GatorGamer/GatorGamer.github.io/assets/130500031/45922d08-e0fa-460e-9067-2bc00078516f)
 [Doodle Jump](https://gatorgamer.github.io/games/doodlejump)
 
 [Getaway Shootout](https://gatorgamer.github.io/games/getawayshootout)
