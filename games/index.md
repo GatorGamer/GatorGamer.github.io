@@ -11,6 +11,7 @@
 ![poki-basketball-legends-2020-icon-filled-256_40x40](https://github.com/GatorGamer/GatorGamer.github.io/assets/130500031/adbb454d-fa13-48fb-b289-7282165bcedd)
 [Basketball Legends](https://gatorgamer.github.io/games/basketballlegends)
 
+![cover_40x40](https://github.com/GatorGamer/GatorGamer.github.io/assets/130500031/9cf59b9f-bcc2-44df-8e89-9dfadb5ddf3b)
 [Choppy Orc](https://gatorgamer.github.io/games/choppyorc)
 
 [Counter Strike](https://gatorgamer.github.io/games/counterstrike)
