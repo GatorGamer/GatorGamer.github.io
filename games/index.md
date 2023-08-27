@@ -2,6 +2,7 @@
 
 ## [Home](https://gatorgamer.github.io)
 
+![unnamed_40x40](https://github.com/GatorGamer/GatorGamer.github.io/assets/130500031/f54ec960-b357-4389-b58f-2c9c346498ac)
 [1v1 LOL](https://gatorgamer.github.io/games/1v1lol)
 
 ![1024x1024bb_40x40](https://github.com/GatorGamer/GatorGamer.github.io/assets/130500031/d3f298dd-e51e-42fe-8a80-7face2245517)
