@@ -1,4 +1,6 @@
-## ![Screenshot_2023-08-27_204159_1_150x151](https://github.com/GatorGamer/GatorGamer.github.io/assets/130500031/6b284606-ab68-40a0-a1e6-fe3ccb8ed348) GatorGamer.github.io
+## ![Screenshot_2023-08-27_204159_1_150x151](https://github.com/GatorGamer/GatorGamer.github.io/assets/130500031/6b284606-ab68-40a0-a1e6-fe3ccb8ed348) 
+
+## GatorGamer.github.io
 
 <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=1bc6d715c684309a0c5a7b78f111356a21767591'></script>
 <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1018414/t/0"></script>
