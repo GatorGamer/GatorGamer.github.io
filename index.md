@@ -15,7 +15,7 @@ Someone who is simply better
 
 # [![13973_40x40 (1)](https://github.com/GatorGamer/GatorGamer.github.io/assets/130500031/0c39f492-f29f-4857-b354-ca5c4e042c19)](https://gatorgamer.github.io/games)[ Games](https://gatorgamer.github.io/games)
 
-# [Webtoon Fastpasses](https://gatorgamer.github.io/webtoon)
+# [![88ff8ae7d26d63a4868820a2e689ce0b_40x40](https://github.com/GatorGamer/GatorGamer.github.io/assets/130500031/e45be56a-0f36-47b2-9e88-c244d881d4e2)](https://gatorgamer.github.io/webtoon)[ Webtoon Fastpasses](https://gatorgamer.github.io/webtoon)
 
 # [Streaming Services Unblocked](https://gatorgamer.github.io/streaming)
 
