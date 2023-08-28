@@ -13,7 +13,7 @@ Someone who is simply better
 
 ## [![concours-discord-cartes-voeux-fortnite-france-6_40x40](https://github.com/GatorGamer/GatorGamer.github.io/assets/130500031/071ba5da-fb42-4ce1-86ff-a9260c7307cc)](https://gatorgamer.github.io/discord.html)[ (Unblocked, Can't Unmute in Calls)](https://gatorgamer.github.io/discord.html)
 
-# [Games](https://gatorgamer.github.io/games)
+# [![concours-discord-cartes-voeux-fortnite-france-6_40x40](https://github.com/GatorGamer/GatorGamer.github.io/assets/130500031/a3ccd85e-b2fc-4429-a67c-92bea8977054)](https://gatorgamer.github.io/games)[ Games](https://gatorgamer.github.io/games)
 
 # [Webtoon Fastpasses](https://gatorgamer.github.io/webtoon)
 
