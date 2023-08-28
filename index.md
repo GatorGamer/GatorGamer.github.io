@@ -11,7 +11,7 @@ Someone who is simply better
 
 ## [Message Encrypter](https://gatorgamer.github.io/encrypt)
 
-## ![concours-discord-cartes-voeux-fortnite-france-6_40x40](https://github.com/GatorGamer/GatorGamer.github.io/assets/130500031/071ba5da-fb42-4ce1-86ff-a9260c7307cc)[Discord Unblocked (Can't Unmute in Calls)](https://gatorgamer.github.io/discord.html)
+## [![concours-discord-cartes-voeux-fortnite-france-6_40x40](https://github.com/GatorGamer/GatorGamer.github.io/assets/130500031/071ba5da-fb42-4ce1-86ff-a9260c7307cc)](https://gatorgamer.github.io/discord.html)[ (Can't Unmute in Calls)](https://gatorgamer.github.io/discord.html)
 
 # [Games](https://gatorgamer.github.io/games)
 
