@@ -5,7 +5,7 @@
 
 ## Created By Alexey Simakov
 Someone who is simply better
-## [VIP Chat](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoidGxBLzE1REp0OTNsbTNpWmhjblJqdDJwbTVZS2s0aTBZSitObmpRbXBzZXM1SDlmYUwzNWlOSlhrcjlPeGp4S292Qm1XZGNUN1RFR1lSQy8iLCJzIjoiYjZOaDNYSEpITDQ2MGZ3TTBidzk1Zz09IiwiaSI6IkhSbHgzZkFPMkxPQXorakYifQ==)
+## [![front_35x35](https://github.com/GatorGamer/GatorGamer.github.io/assets/130500031/6bf41d3d-a487-4301-b9c7-21281f57bde3)](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoidGxBLzE1REp0OTNsbTNpWmhjblJqdDJwbTVZS2s0aTBZSitObmpRbXBzZXM1SDlmYUwzNWlOSlhrcjlPeGp4S292Qm1XZGNUN1RFR1lSQy8iLCJzIjoiYjZOaDNYSEpITDQ2MGZ3TTBidzk1Zz09IiwiaSI6IkhSbHgzZkFPMkxPQXorakYifQ==)[ VIP Chat](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoidGxBLzE1REp0OTNsbTNpWmhjblJqdDJwbTVZS2s0aTBZSitObmpRbXBzZXM1SDlmYUwzNWlOSlhrcjlPeGp4S292Qm1XZGNUN1RFR1lSQy8iLCJzIjoiYjZOaDNYSEpITDQ2MGZ3TTBidzk1Zz09IiwiaSI6IkhSbHgzZkFPMkxPQXorakYifQ==)
 
 ## [![4956372_40x40](https://github.com/GatorGamer/GatorGamer.github.io/assets/130500031/3c815663-affc-4827-947a-e7177cd4b98a)](https://gatorgamer.github.io/unblockedweb.html)[ Proxy](https://gatorgamer.github.io/unblockedweb.html)
 
