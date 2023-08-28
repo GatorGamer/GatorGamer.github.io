@@ -7,9 +7,9 @@
 Someone who is simply better
 ## [VIP Chat](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoidGxBLzE1REp0OTNsbTNpWmhjblJqdDJwbTVZS2s0aTBZSitObmpRbXBzZXM1SDlmYUwzNWlOSlhrcjlPeGp4S292Qm1XZGNUN1RFR1lSQy8iLCJzIjoiYjZOaDNYSEpITDQ2MGZ3TTBidzk1Zz09IiwiaSI6IkhSbHgzZkFPMkxPQXorakYifQ==)
 
-## [Proxy](https://gatorgamer.github.io/unblockedweb.html)
+## [![4956372_40x40](https://github.com/GatorGamer/GatorGamer.github.io/assets/130500031/3c815663-affc-4827-947a-e7177cd4b98a)](https://gatorgamer.github.io/unblockedweb.html)[ Proxy](https://gatorgamer.github.io/unblockedweb.html)
 
-## [Message Encrypter](https://gatorgamer.github.io/encrypt)
+## [![unnamed_2_35x35](https://github.com/GatorGamer/GatorGamer.github.io/assets/130500031/83fa8ce7-8d3b-433e-830a-0fc250e37905)](https://gatorgamer.github.io/encrypt)[ Message Encrypter](https://gatorgamer.github.io/encrypt)
 
 ## [![concours-discord-cartes-voeux-fortnite-france-6_40x40](https://github.com/GatorGamer/GatorGamer.github.io/assets/130500031/071ba5da-fb42-4ce1-86ff-a9260c7307cc)](https://gatorgamer.github.io/discord.html)[ (Unblocked, Can't Unmute in Calls)](https://gatorgamer.github.io/discord.html)
 
